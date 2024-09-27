@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RandomBroLol
-- 👀 I’m interested in Multi Tools
+- 👀 I’m interested in Roblox Lua
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me hm
